@@ -1,0 +1,32 @@
+.img1{
+    background-image: url(./images/background.jpg);
+    background-size: cover;
+}
+
+.img2{
+    background-image: url(./images/landscape-4114839_1920.jpg);
+    background-size: cover;
+}
+
+.img3{
+    background-image: url(./images/shutterstock_1426690718[7497].jpg);
+    background-size: cover;
+}
+
+.image-holder{
+    height: 250px;
+}
+
+/* .image-holder:hover .image-description{
+    display: block;
+} */
+
+.image-description{
+    height: 50%;
+    width: 50%;
+    background-color: rgba(255,255,255,.6);
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    display: none;
+}
